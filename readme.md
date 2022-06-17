@@ -1,5 +1,7 @@
 # Teste - Target Sistemas
 
+Obs.: Códigos em Java versão 18, com a IDE IntelliJ.
+
 <b>1</b>. Observe o trecho de código abaixo:
 
 ```
